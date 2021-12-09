@@ -1,0 +1,7 @@
+digraph  {
+    node [fontname= "Open Sans"; shape=box]
+    a [label="WWI"]
+    b [label="Conflict"]
+    a -> b -> c
+    a -> c
+}
